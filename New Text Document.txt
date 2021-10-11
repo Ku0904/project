@@ -8,11 +8,11 @@
 </head>
 
 <body>
-  <img src="https://i.pinimg.com/originals/4a/21/f0/4a21f0d2e971879c66829590c18bf7b4.gif" alt="broly image">
-  <img class="bomb" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/bomb_1f4a3.png">
+  <img src="https://cdn.vox-cdn.com/thumbor/4iII7x1kSgAXEZmEn6lbXamdhDY=/0x0:1378x775/1200x675/filters:focal(459x241:679x461)/cdn.vox-cdn.com/uploads/chorus_image/image/62668661/_Still004.0.jpg" alt="broly image">
+  <img src="449bfb70e970cd900f3616a0567ec658.jpg">
   <!--alt helps in seo and src me image address if img src have twitter image if twitter server goes down image goes down  -->
   <!-- or just paste image in site folder and in src write the image name -->
-  <h1 id="heading">Kunal Rawat</h1>
+  <h1>Kunal Rawat</h1>
   <p>
     paragraph in html <em><a href="https://www.google.co.in/search?q=italic&spell=1&sa=X&ved=2ahUKEwj25aCp5L3zAhUAzjgGHbRUB6UQBSgAegQIARA2&biw=768&bih=720&dpr=1.25&dlnr=1&sei=88dhYeTFMuSO4-EPiZCN0AU">italic</a></em> and <em>line</em> <strong> bold
       boi </strong>
