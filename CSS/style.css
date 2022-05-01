@@ -93,8 +93,8 @@ background-color: #C4DDFF;
    }
 .image2
    {
-  height: 100%;
-  width: 100%;
+    max-width: 100%;
+    height: auto;
    }
 body
 {
