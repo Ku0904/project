@@ -25,6 +25,7 @@ padding-bottom: 0;
 {
 text-align: center;
 background-color: #C4DDFF;
+  max-width: 100%;
 }
 .pp
 {
@@ -84,6 +85,7 @@ font-size: 50px;
 .middle-container
 {
 background-color: #C4DDFF;
+  max-width: 100%;
 }
 .image1
   {
